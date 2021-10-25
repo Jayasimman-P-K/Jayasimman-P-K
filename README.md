@@ -1,4 +1,4 @@
-### Hi there, I'm Jayasimman [Web Developer] 👋
+### Hi there, I'm Jayasimman [Software Developer] 👋
 
 
 
@@ -82,7 +82,7 @@ START_SECTION:activity
 </details> --> 
 
 [website]: #
-[Web Developer]: #
+[Software Developer]: #
 [linkedin]: https://www.linkedin.com/in/jayasimman-p-k/
 [twitter]: #
 [youtube]: # 
