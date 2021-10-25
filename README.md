@@ -5,8 +5,8 @@
 ## I'm a Student @ VIT Vellore, Developer, and Learner!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for an intern oppurtunity as software developer
-- 🥅 2021 Goals: Gain as many knowledge as I can 
+- 👯 I’m looking for an intern oppurtunity as a software developer
+- 🥅 2021 Goals: Gain as many coding knowledge as I can 
 - ⚡ Fun fact: I love to code, and to watch anime
 
 ### Connect with me:
