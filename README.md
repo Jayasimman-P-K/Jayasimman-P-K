@@ -7,8 +7,8 @@
 
 - 👯 I’m looking for an intern oppurtunity as a software developer
 - 🌱 I’m currently learning everything 🤣(Self thought Software Engineer)
-- 🥅 2021 Goals: Gain as many coding knowledge as I can 
-- ⚡ Fun fact: I love to code, and to watch anime
+- 🥅 2021 Goals: To become a full stack web developer
+- ⚡ Fun fact: I love to code and to watch anime
 
 ### Connect with me:
 
