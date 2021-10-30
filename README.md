@@ -2,12 +2,12 @@
 
 
 
-## I'm a Student @ VIT Vellore, Developer, and Learner!!
+## I'm a Student @ VIT Vellore, Developer, and Freelancer!!
 
 
 - 👯 I’m looking for an intern oppurtunity as a software developer
-- 🌱 I’m currently learning everything 🤣(Self thought Software Engineer)
-- 🥅 2021 Goals: To become a full stack web developer
+- 🌱 I’m currently learning everything 🤣(Self-thought Software Engineer)
+- 🥅 2021 Goals: To become a full stack developer
 - ⚡ Fun fact: I love to code and to watch anime
 
 ### Connect with me:
@@ -21,6 +21,7 @@
 
 
 <br />
+
 
 ### Languages and Tools:
 
@@ -48,9 +49,11 @@
 ---
 
 
-<!-- ### 📕 Latest Blog Posts -->
+### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
+- [Travel Blog with Parallax Effect](https://jayasimman-p-k.github.io/Travel-blog-with-parallox-effect/)
 <!-- - [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
 - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
