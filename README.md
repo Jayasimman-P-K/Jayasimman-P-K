@@ -2,7 +2,7 @@
 
 
 
-## I'm a Student @ VIT Vellore, Developer, and Freelancer!!
+## I'm a Student @ VIT Vellore, Developer and Freelancer!!
 
 
 - 👯 I’m looking for an intern oppurtunity as a software developer
