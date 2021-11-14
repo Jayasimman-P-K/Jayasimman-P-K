@@ -40,6 +40,7 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website] -->
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
 <br />
@@ -73,6 +74,8 @@
 | ![Jayasimman GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Jayasimman-P-K&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasimman-P-K) |
 | --- | --- |
 | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jayasimman-P-K&theme=light&hide_border=true&line_height=27&width=20) | ![Jayasimman's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jayasimman-P-K&layout=compact&langs_count=8&hide_border=true) | 
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Jayasimman-P-K&theme=github" alt="GitHub Activity Graph" width="100%" />
 
 <!-- <details>
   <summary>:zap: Recent GitHub Activity</summary>
