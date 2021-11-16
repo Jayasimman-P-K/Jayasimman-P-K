@@ -1,6 +1,6 @@
 ### Hi there, I'm Jayasimman [Software Developer] 👋
 
-
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Jayasimman-P-K alt=jayasimman/> </p>
 
 ## I'm a Student @ VIT Vellore, Developer and Freelancer!!
 
