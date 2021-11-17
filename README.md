@@ -44,7 +44,7 @@
 
 ### 📕 Latest Projects
 
-- [Travel Blog with Parallax Effect](https://jayasimman-p-k.github.io/Travel-blog-with-parallox-effect/)
+- [Travel Blog with Parallax Effect](https://jayasimman-p-k.github.io/Travel-blog-with-parallax-effect/)
 - [Countdown Timer app](https://jayasimman-p-k.github.io/countdown-timer/)
 
 <br />
