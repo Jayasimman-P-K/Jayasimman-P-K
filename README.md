@@ -64,7 +64,7 @@
 [website]: #
 [Software Developer]: #
 [linkedin]: https://www.linkedin.com/in/jayasimman-p-k/
-[twitter]: #
+[twitter]: https://twitter.com/jayasimman2468
 [youtube]: # 
 [instagram]: https://www.instagram.com/_jayazi_10_01_/
 
