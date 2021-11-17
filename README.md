@@ -55,7 +55,7 @@
 
 | ![Jayasimman GitHub Statistics](https://github-readme-stats.vercel.app/api?username=jayasimman-p-k&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayasimman-p-k) |
 | --- | --- |
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayasimman-p-k&theme=light&hide_border=true&line_height=27&width=20) | ![Jayasimman's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jayasimman-p-k&layout=compact&langs_count=8&hide_border=true) | 
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jayasimman-P-K&theme=light&hide_border=true&line_height=27&width=20) | ![Jayasimman's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jayasimman-p-k&layout=compact&langs_count=8&hide_border=true) | 
 
 <img src="https://activity-graph.herokuapp.com/graph?username=jayasimman-p-k&theme=github" alt="GitHub Activity Graph" width="100%" />
 
