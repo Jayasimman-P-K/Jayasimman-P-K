@@ -48,7 +48,6 @@
 - [Countdown Timer app](https://jayasimman-p-k.github.io/countdown-timer/)
 - [Quiz app for the preparation of MCQ interviews on Java](https://jayasimman-p-k.github.io/Java-MCQ-interview-prepation-app/)
 
-<br />
 
 ---
 
