@@ -48,7 +48,6 @@
 - [Countdown Timer app](https://jayasimman-p-k.github.io/countdown-timer/)
 
 <br />
-<br />
 
 ---
 
