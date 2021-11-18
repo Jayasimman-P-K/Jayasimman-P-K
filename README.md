@@ -14,6 +14,7 @@
 
 [<img align="left" alt="portfolio.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -62,8 +63,8 @@
  
 
 [website]: #
-[Software Developer]: #
 [linkedin]: https://www.linkedin.com/in/jayasimman-p-k/
+[gmail]: mailto:jayasi58460@gamil.com
 [twitter]: https://twitter.com/jayasimman2468
 [youtube]: # 
 [instagram]: https://www.instagram.com/_jayazi_10_01_/
