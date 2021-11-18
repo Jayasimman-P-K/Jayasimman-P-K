@@ -2,7 +2,7 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=jayasimman-p-k alt=jayasimman/> </p>
 
-## I'm a Student @ VIT Vellore, Developer, Open-Source enthusiast and Freelancer!!
+## I'm a Student @ VIT Vellore, Developer and Freelancer!!
 
 
 - 👯 I’m looking for an intern oppurtunity as a software developer
