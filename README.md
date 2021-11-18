@@ -1,4 +1,4 @@
-### Hi there, I'm Jayasimman [Software Developer] 👋
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Jayasimman!](https://github.com/Jayasimman-P-K) 
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=jayasimman-p-k alt=jayasimman/> </p>
 
