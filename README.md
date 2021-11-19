@@ -1,6 +1,3 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
-
-
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Jayasimman!](https://github.com/Jayasimman-P-K) 
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=jayasimman-p-k alt=jayasimman/> </p>
