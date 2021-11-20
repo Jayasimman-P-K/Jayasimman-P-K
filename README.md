@@ -29,6 +29,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
+[<img align="left" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="26px"/>][website]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website] 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
@@ -56,9 +57,9 @@
 
 | ![Jayasimman GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Jayasimman-P-K&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayasimman-p-k) |
 | --- | --- |
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayasimman-p-k&theme=light&hide_border=true&line_height=27&width=20) | ![Jayasimman's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jayasimman-P-K&layout=compact&langs_count=8&hide_border=true) | 
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayasimman-p-k&theme=light&hide_border=true&line_height=27&width=20) | ![Jayasimman's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jayasimman-p-k&layout=compact&langs_count=8&hide_border=true) | 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Jayasimman-P-K&theme=github" alt="GitHub Activity Graph" width="100%" />
+<img src="https://activity-graph.herokuapp.com/graph?username=jayasimman-p-k&theme=github" alt="GitHub Activity Graph" width="100%" />
 
  
 
@@ -68,5 +69,4 @@
 [twitter]: https://twitter.com/jayasimman2468
 [youtube]: # 
 [instagram]: https://www.instagram.com/_jayazi_10_01_/
-
 
