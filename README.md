@@ -46,7 +46,7 @@
 
 ### 📕 Latest Projects
 
-- [Doodler Game](https://jayasimman-p-k.github.io/Doodler-game/)
+- [Doodler Game](https://jayasimman-p-k.github.io/Doodler-Jumping-Game/)
 - [Travel Blog with Parallax Effect](https://jayasimman-p-k.github.io/Travel-blog-with-parallax-effect/)
 - [Countdown Timer app](https://jayasimman-p-k.github.io/countdown-timer/)
 - [Quiz app for the preparation of MCQ interviews on Java](https://jayasimman-p-k.github.io/Java-MCQ-interview-prepation-app/)
