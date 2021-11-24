@@ -60,7 +60,7 @@
 | --- | --- |
 | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayasimman-p-k&theme=light&hide_border=true&line_height=27&width=20) | ![Jayasimman's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jayasimman-P-K&layout=compact&langs_count=8&hide_border=true) | 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Jayasimman-P-K&theme=github" alt="GitHub Activity Graph" width="100%" />
+<img src="https://activity-graph.herokuapp.com/graph?username=jayasimman-p-k&theme=github" alt="GitHub Activity Graph" width="100%" />
 
  
 
