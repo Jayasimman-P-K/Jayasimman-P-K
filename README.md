@@ -46,7 +46,7 @@
 
 ### 📕 Latest Projects
 
-- [portfolio](https://jayasimman-p-k.github.io/portfolio/)
+- [portfolio](https://jayasimman-p-k.github.io/Jc-portfolio/)
 - [Doodler Game](https://jayasimman-p-k.github.io/Doodler-Jumping-Game/)
 - [Quiz app for the preparation of MCQ interviews on Java](https://jayasimman-p-k.github.io/Java-MCQ-interview-prepation-app/)
 - [Travel Blog with Parallax Effect](https://jayasimman-p-k.github.io/Travel-blog-with-parallax-effect/)
@@ -65,7 +65,7 @@
 
  
 
-[website]: #
+[website]: https://jayasimman-p-k.github.io/Jc-portfolio/
 [linkedin]: https://www.linkedin.com/in/jayasimman-p-k/
 [gmail]: mailto:jayasi58460@gamil.com
 [twitter]: https://twitter.com/jayasimman2468
