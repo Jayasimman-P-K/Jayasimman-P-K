@@ -2,13 +2,13 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=jayasimman-p-k alt=jayasimman/> </p>
 
-## I'm a Student @ VIT Vellore, Developer and Freelancer!!
+## I'm a Student @ VIT Vellore, Web Developer and BlockChain Developer!!
 
 
-- 👯 I’m looking for an intern oppurtunity as a software developer
-- 🌱 I’m currently learning everything 🤣(Self-thought Software Engineer)
-- 🥅 2021 Goals: To become a full stack developer
-- ⚡ Fun fact: I love to code and to watch anime
+- 👯 I’m an Self-thought Software Engineer interested in web 3.0 technologies and metaverse
+- 🌱 I’m currently learning w3.js and Solidity for backend development, Unity and Blender for creating my own space in VR.
+- 🥅 2022 Goals: To become a full stack developer in web 3.0
+- ⚡ Fun fact: I love to learn new technologies and watch anime
 
 ### Connect with me:
 
