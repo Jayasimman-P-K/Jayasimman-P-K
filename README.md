@@ -6,9 +6,9 @@
 
 
 - 👯 I’m an Self-thought Software Engineer interested in web 3.0 technologies and metaverse
-- 🌱 I’m currently learning w3.js and Solidity for backend development, Unity and Blender for creating my own space in VR.
-- 🥅 2022 Goals: To become a full stack developer in web 3.0
-- ⚡ Fun fact: I love to learn new technologies and watch anime
+- 🌱 I’m currently learning w3.js and Solidity for backend development, Unity and Blender for creating my own space in VR
+- 🥅 2022 Goals: To become a full stack developer in web 3.0 and become a developer in metaverse
+- ⚡ Future Ideas: To become a Prime Minister of India 
 
 ### Connect with me:
 
