@@ -72,5 +72,5 @@
 [gmail]: mailto:jayasi58460@gamil.com
 [twitter]: https://twitter.com/jayasimman2468
 [youtube]: # 
-[instagram]: https://www.instagram.com/_jayazi_10_01_/
+[instagram]: https://www.instagram.com/self.developers/
 
