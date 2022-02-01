@@ -49,6 +49,7 @@
 - [portfolio with neomorphism UI](https://jayasimman-p-k.github.io/Jc-portfolio/)
 - [Doodler Jumping Game](https://jayasimman-p-k.github.io/Doodler-Jumping-Game/)
 - [Quiz app for the preparation of MCQ interviews on Java](https://jayasimman-p-k.github.io/Java-MCQ-interview-prepation-app/)
+- [Working Analog Clock with neomorphism UI](https://jayasimman-p-k.github.io/Analog-clock/)
 - [Travel Blog with Parallax Effect](https://jayasimman-p-k.github.io/Travel-blog-with-parallax-effect/)
 - [Calculator with claymorphism UI](https://jayasimman-p-k.github.io/Calculator/)
 - [e-learning platfrom landing page](https://jayasimman-p-k.github.io/jayasimman-firstlaunch-task/)
