@@ -70,7 +70,7 @@
 
 
 
-<div align="center">
+<div align="end">
   <img src="https://github-profile-trophy.vercel.app/?username=jayasimman-p-k&column=7&theme=onedark" />
 </div>
 
