@@ -5,10 +5,10 @@
 ## I'm a Student @ VIT Vellore, Web Developer and BlockChain Developer!!
 
 
-- 👯 I’m a Self-thought Software Engineer interested in web development, designing, web 3.0 and metaverse
-- 🌱 I’m currently learning w3.js and Solidity for backend development, Unity and Blender for creating my own space in VR
+- 👯 I’m a Self-thought Software Engineer interested in web development, Blockchain technologies, web 3.0 and metaverse
+- 🌱 I’m currently learning w3.js and Solidity for backend development, Unity and Blender for creating my own space in Virtual world
 - 🥅 2022 Goals: To become a full stack developer in web 3.0
-- ⚡ Future Ideas: To become a Prime Minister of India 
+- ⚡ Future Goals: To make some changes in the world where I live
 
 ### Connect with me:
 
