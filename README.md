@@ -71,7 +71,7 @@
 
 
 <div align="end">
-  <img src="https://github-profile-trophy.vercel.app/?username=jayasimman-p-k&column=7&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jayasimman-P-K&column=7&theme=onedark" />
 </div>
 
  
