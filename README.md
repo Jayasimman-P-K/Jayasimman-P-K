@@ -78,6 +78,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Jayasimman-P-K&column=7&theme=onedark" />
 </div>
 
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
  
 
 [website]: https://jayasimman-p-k.github.io/Jc-portfolio/
