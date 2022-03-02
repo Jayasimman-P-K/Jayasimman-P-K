@@ -75,7 +75,7 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Jayasimman-P-K&theme=github" alt="GitHub Activity Graph" width="100%" />
 
-
+<br>
 
 <div align="end">
   <img src="https://github-profile-trophy.vercel.app/?username=Jayasimman-P-K&column=7&theme=onedark" />
