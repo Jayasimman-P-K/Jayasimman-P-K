@@ -1,9 +1,9 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Jayasimman!](https://github.com/Jayasimman-P-K) 
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=jayasimman-p-k alt=jayasimman/>
-  <a href="https://github.com/MacroPower?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Jayasimman-P-K?color=tomato&logo=github">
-  </a></p>
+<p align="left"> 
+  <img alt="profile views" src=https://komarev.com/ghpvc/?username=jayasimman-p-k alt=jayasimman/>
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Jayasimman-P-K?color=tomato&logo=github">
+ </p>
 
 ## I'm a Student @ VIT Vellore, Web Developer and BlockChain Developer!!
 
@@ -15,12 +15,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Jayasimman's portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Jayasimman's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Jayasimman's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="Jayasimman's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Jayasimman's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Jayasimman's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Jayasimman's portfolio" width="22px" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif?raw=true" />][website]
+[<img align="left" alt="Jayasimman's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jayasimman's MailId" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />][gmail]
+[<img align="left" alt="Jayasimman's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />][instagram]
+[<img align="left" alt="Jayasimman's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />][youtube]
+[<img align="left" alt="Jayasimman's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
 
 
 
