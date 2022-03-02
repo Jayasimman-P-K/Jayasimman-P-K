@@ -78,6 +78,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Jayasimman-P-K&column=7&theme=onedark" />
 </div>
 
+<br>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
