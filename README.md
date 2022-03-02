@@ -1,6 +1,9 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Jayasimman!](https://github.com/Jayasimman-P-K) 
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=jayasimman-p-k alt=jayasimman/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=jayasimman-p-k alt=jayasimman/>
+  <a href="https://github.com/MacroPower?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Jayasimman-P-K?color=tomato&logo=github">
+  </a></p>
 
 ## I'm a Student @ VIT Vellore, Web Developer and BlockChain Developer!!
 
