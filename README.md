@@ -15,15 +15,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Jayasimman's portfolio" width="22px" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif?raw=true" />][website]
-[<img align="left" alt="Jayasimman's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
-[<img align="left" alt="Jayasimman's MailId" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />][gmail]
-[<img align="left" alt="Jayasimman's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />][instagram]
-[<img align="left" alt="Jayasimman's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />][youtube]
-[<img align="left" alt="Jayasimman's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />][twitter]
-
-
-
+[<img align="left" alt="Jayasimman's Website" width="30px" src="https://img.icons8.com/3d-fluency/94/domain.png" />][website]
+[<img align="left" alt="Jayasimman's linkedin" width="30px" src="https://img.icons8.com/3d-fluency/94/linkedin.png" />][linkedin]
+[<img align="left" alt="Jayasimman's gmail" width="30px" src="https://img.icons8.com/3d-fluency/94/gmail.png" />][gmail]
+[<img align="left" alt="Jayasimman's instagram" width="30px" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" />][instagram]
+[<img align="left" alt="Jayasimman's youtube" width="30px" src="https://img.icons8.com/3d-fluency/94/youtube-play.png" />][youtube]
+[<img align="left" alt="Jayasimman's twitter" width="30px" src="https://img.icons8.com/3d-fluency/94/twitter-circled.png" />][twitter]
 <br />
 
 
