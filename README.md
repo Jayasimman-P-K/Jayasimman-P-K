@@ -51,6 +51,7 @@
 - [Quiz app for the preparation of MCQ interviews on Java](https://jayasimman-p-k.github.io/Java-MCQ-interview-prepation-app/)
 - [Working Analog Clock with neomorphism UI](https://jayasimman-p-k.github.io/Analog-clock/)
 - [KFC landing Page](https://jayasimman-p-k.github.io/KFC-Landing-Page/)
+- [Star Bucks landing Page](https://jayasimman-p-k.github.io/Starbucks-landing--page/)
 - [Travel Blog with Parallax Effect](https://jayasimman-p-k.github.io/Travel-blog-with-parallax-effect/)
 - [Calculator with claymorphism UI](https://jayasimman-p-k.github.io/Calculator/)
 - [Spinning Donut Landing Page](https://jayasimman-p-k.github.io/Spinnin-donut-landing-page/)
