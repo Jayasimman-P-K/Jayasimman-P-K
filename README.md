@@ -48,7 +48,7 @@
 
 - [portfolio with neomorphism UI](https://jayasimman-p-k.github.io/Jc-portfolio/)
 - [Doodler Jumping Game](https://jayasimman-p-k.github.io/Doodler-Jumping-Game/)
-- [Quiz app for the preparation of MCQ interviews on Java](https://jayasimman-p-k.github.io/Java-MCQ-Prep/)
+- [Animated Card Design](#)
 - [Working Analog Clock with neomorphism UI](https://jayasimman-p-k.github.io/Analog-clock/)
 - [KFC landing Page](https://jayasimman-p-k.github.io/KFC-Landing-Page/)
 - [Star Bucks landing Page](https://jayasimman-p-k.github.io/Starbucks-landing--page/)
@@ -59,6 +59,8 @@
 - [Login page with claymorphism UI](https://jayasimman-p-k.github.io/Login-form/)
 - [Scroll Animation landing Pages](https://jayasimman-p-k.github.io/Scroll-animation-pages/)
 - [Full year calendar view](https://jayasimman-p-k.github.io/Full-year-calendar-view/)
+- [Quiz app for the preparation of MCQ interviews on Java](https://jayasimman-p-k.github.io/Java-MCQ-Prep/)
+- [Attendance Calculator](#)
   
 
 
