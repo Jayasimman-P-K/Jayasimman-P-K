@@ -48,7 +48,7 @@
 
 - [portfolio with neomorphism UI](https://jayasimman-p-k.github.io/Jc-portfolio/)
 - [Doodler Jumping Game](https://jayasimman-p-k.github.io/Doodler-Jumping-Game/)
-- [Animated Card Design](#)
+- [Animated Card Design](https://jayasimman-p-k.github.io/animated-card-design/)
 - [Working Analog Clock with neomorphism UI](https://jayasimman-p-k.github.io/Analog-clock/)
 - [KFC landing Page](https://jayasimman-p-k.github.io/KFC-Landing-Page/)
 - [Star Bucks landing Page](https://jayasimman-p-k.github.io/Starbucks-landing--page/)
