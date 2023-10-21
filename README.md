@@ -5,7 +5,7 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Jayasimman-P-K?color=tomato&logo=github">
  </p>
 
-## I'm a Student @ VIT Vellore, Software Developer and Web 3 entusiast!!
+## I'm a Graduate @ VIT Vellore, Software Developer and Web 3 entusiast!!
 
 
 - 👯 I’m a Self-thought Software Engineer interested in web development, Blockchain technologies, web 3.0 and metaverse
