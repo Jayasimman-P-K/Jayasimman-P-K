@@ -1,4 +1,4 @@
-## Hey, I'm [Jayasimman!](https://github.com/Jayasimman-P-K) 👋 
+## Hey, I'm [Jayasimman!](https://github.com/Jayasimman-P-K) 👋.
 
 <p align="left"> 
   <img alt="profile views" src=https://komarev.com/ghpvc/?username=jayasimman-p-k alt=jayasimman/>
