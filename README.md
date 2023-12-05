@@ -16,7 +16,7 @@
 - 🥅 2023 Goals: To become a full stack developer in web 3.0
 - ⚡ Future Goals: To make some changes in the world where I live
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="Jayasimman's Website" width="30px" src="https://img.icons8.com/3d-fluency/94/domain.png" />][website]
 [<img align="left" alt="Jayasimman's linkedin" width="30px" src="https://img.icons8.com/3d-fluency/94/linkedin.png" />][linkedin]
