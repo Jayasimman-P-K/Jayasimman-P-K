@@ -64,7 +64,7 @@
 - [NETFLIX intergrated with ChatGPT](https://jayasimman-netflix-gpt.netlify.app/)
 - [Food Delivery App](#)
 - [YouTube Clone](https://jayasimman-youtube-clone.netlify.app/)
-- [Blog Posting App with CRUD](#)
+- [Blog Post App with CRUD](#)
 - [portfolio with neomorphism UI](https://jayasimman-p-k.github.io/Jc-portfolio/)
 
 ---
