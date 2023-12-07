@@ -62,24 +62,6 @@
 ### 📕 Latest Projects
 
 - [portfolio with neomorphism UI](https://jayasimman-p-k.github.io/Jc-portfolio/)
-- [Doodler Jumping Game](https://jayasimman-p-k.github.io/Doodler-Jumping-Game/)
-- [Animated Card Design](https://jayasimman-p-k.github.io/animated-card-design/)
-- [Working Analog Clock with neomorphism UI](https://jayasimman-p-k.github.io/Analog-clock/)
-- [KFC landing Page](https://jayasimman-p-k.github.io/KFC-Landing-Page/)
-- [Star Bucks landing Page](https://jayasimman-p-k.github.io/Starbucks-landing--page/)
-- [Travel Blog with Parallax Effect](https://jayasimman-p-k.github.io/Travel-blog-with-parallax-effect/)
-- [Calculator with claymorphism UI](https://jayasimman-p-k.github.io/Calculator/)
-- [Spinning Donut Landing Page](https://jayasimman-p-k.github.io/Spinnin-donut-landing-page/)
-- [e-learning platfrom landing page](https://jayasimman-p-k.github.io/jayasimman-firstlaunch-task/)
-- [Login page with claymorphism UI](https://jayasimman-p-k.github.io/Login-form/)
-- [Scroll Animation landing Pages](https://jayasimman-p-k.github.io/Scroll-animation-pages/)
-- [Full year calendar view](https://jayasimman-p-k.github.io/Full-year-calendar-view/)
-- [Quiz app for the preparation of MCQ interviews on Java](https://jayasimman-p-k.github.io/Java-MCQ-Prep/)
-- [Attendance Calculator](#)
-  
-
-
-
 
 ---
 
