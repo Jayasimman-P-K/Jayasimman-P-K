@@ -67,6 +67,9 @@
 - [YouTube Clone](https://jayasimman-youtube-clone.netlify.app/)
 - [Blog Post App with CRUD](#)
 - [portfolio with neomorphism UI](https://jayasimman-p-k.github.io/Jc-portfolio/)
+- [portfolio with neomorphism UI](https://jayasimman-p-k.github.io/Jc-portfolio/)
+- [portfolio with neomorphism UI](https://jayasimman-p-k.github.io/Jc-portfolio/)
+- [portfolio with neomorphism UI](https://jayasimman-p-k.github.io/Jc-portfolio/)
 
 ---
 
