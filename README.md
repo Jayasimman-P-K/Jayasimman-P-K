@@ -23,7 +23,7 @@
 [<img align="left" alt="Jayasimman's gmail" width="30px" src="https://img.icons8.com/3d-fluency/94/gmail.png" />][gmail]
 [<img align="left" alt="Jayasimman's instagram" width="30px" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" />][instagram]
 [<img align="left" alt="Jayasimman's youtube" width="30px" src="https://img.icons8.com/3d-fluency/94/youtube-play.png" />][youtube]
-[<img align="left" alt="Jayasimman's twitter" width="30px" src="https://img.icons8.com/3d-fluency/94/twitter-circled.png" />][twitter]
+[<img align="left" alt="Jayasimman's twitter" width="30px" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png" />][twitter]
 <br />
 
 
