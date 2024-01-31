@@ -85,8 +85,9 @@
 <br>
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
-<!--    <p align="center">
-       <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" /> -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />  
+</p>
 
 
 
