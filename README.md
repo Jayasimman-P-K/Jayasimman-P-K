@@ -78,8 +78,8 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jayasimman-P-K&column=7&theme=onedark" />
+<div align="center>
+  <img src="https://github-profile-trophy.vercel.app/?username=Jayasimman-P-K&column=8&theme=onedark" />
 </div>
 
 <br>
