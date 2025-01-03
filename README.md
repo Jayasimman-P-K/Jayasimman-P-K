@@ -72,14 +72,14 @@
 
 <h3>Github Stats 📈</h3>
 
-| ![Jayasimman GitHub Statistics](https://github-readme-stats.vercel.app/api?username=jayasimman-p-k&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasimman-P-K) |
+| ![Jayasimman GitHub Statistics](https://github-readme-stats.vercel.app/api?username=jayasimman-p-k&show_icons=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasimman-P-K&theme=dracula) |
 | --- | --- |
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jayasimman-P-K&theme=light&hide_border=true&line_height=27&width=20) | ![Jayasimman's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jayasimman-p-k&layout=compact&langs_count=8&hide_border=true) | 
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jayasimman-P-K&theme=dracula&hide_border=true&line_height=27&width=20) | ![Jayasimman's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jayasimman-p-k&layout=compact&langs_count=8&hide_border=true&theme=dracula) | 
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jayasimman-P-K&column=8&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jayasimman-P-K&column=8&theme=dracula" />
 </div>
 
 <br>
